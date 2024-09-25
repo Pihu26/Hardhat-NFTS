@@ -29,9 +29,7 @@ Here is the Contract Verfication : https://sepolia.etherscan.io/address/0xb8C56b
 Here is the Random Ipfs Verification code:https://sepolia.etherscan.io/address/0xC3A93EEb8612B49D9A0D396a9D50568de50578cb#code
 
 Here is Uploaded to Pinata MetaData : https://moccasin-occupational-warbler-939.mypinata.cloud/ipfs/QmRVCfDzF5idtLC43aY5fxUCxrsBGPJQVXyxDAgfuF6kpc
-
                                      https://moccasin-occupational-warbler-939.mypinata.cloud/ipfs/Qmaz9inET5724cfLiNnyhq2K46SMPhD2y5grV3RLPXwgVA
-                                     
                                     https://moccasin-occupational-warbler-939.mypinata.cloud/ipfs/QmUL7p6JAa9JB1sNY2q5w5QR5qpFKniFMBJ7iCToWd5rAM
 
 ### 3. Basic NFT
