@@ -14,7 +14,8 @@ This project showcases the deployment of three types of NFTs using Hardhat on th
   - Dynamically generated SVG on-chain.
   - Adjustable features based on specific conditions.
 
-Here is the link for Sepolia OpenSea:https://testnets.opensea.io/collection/dynamic-svg-nft-251
+Here is the link for Sepolia OpenSea: https://testnets.opensea.io/collection/dynamic-svg-nft-251
+
 Here is the Contract Verfication : https://sepolia.etherscan.io/address/0xb8C56b1a6814dCaAc0df4299CB940f9e46f7714b#code
 
 ### 2. Random IPFS NFT
@@ -26,8 +27,11 @@ Here is the Contract Verfication : https://sepolia.etherscan.io/address/0xb8C56b
   - Unique metadata linked to random numbers.
     
 Here is the Random Ipfs Verification code:https://sepolia.etherscan.io/address/0xC3A93EEb8612B49D9A0D396a9D50568de50578cb#code
+
 Here is Uploaded to Pinata MetaData : https://moccasin-occupational-warbler-939.mypinata.cloud/ipfs/QmRVCfDzF5idtLC43aY5fxUCxrsBGPJQVXyxDAgfuF6kpc
+
                                      https://moccasin-occupational-warbler-939.mypinata.cloud/ipfs/Qmaz9inET5724cfLiNnyhq2K46SMPhD2y5grV3RLPXwgVA
+                                     
                                     https://moccasin-occupational-warbler-939.mypinata.cloud/ipfs/QmUL7p6JAa9JB1sNY2q5w5QR5qpFKniFMBJ7iCToWd5rAM
 
 ### 3. Basic NFT
@@ -36,5 +40,5 @@ Here is Uploaded to Pinata MetaData : https://moccasin-occupational-warbler-939.
 - **Features**:
   - Standard ERC721 implementation.
   - Static metadata that can be fetched from IPFS or another source.
- 
-  Here is the TokenUri forSimple one :   "ipfs://bafybeig37ioir76s7mg5oobetncojcm3c3hxasyd4rvid4jqhy4gkaheg4/?filename=0-PUG.json";
+
+Here is the TokenUri forSimple one :  ipfs://bafybeig37ioir76s7mg5oobetncojcm3c3hxasyd4rvid4jqhy4gkaheg4/?filename=0-PUG.json;
